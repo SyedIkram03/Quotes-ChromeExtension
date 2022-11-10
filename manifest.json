@@ -1,0 +1,13 @@
+{
+    "name":"Quotes for You",
+    "version" :"0.0.1",
+    "manifest_version":3,
+    "action":{
+        "default_title": "Quotes for You",   
+        "default_popup": "popup.html"  
+},
+    "icons":{
+        "128":"exticon.png"
+    },
+    "permissions":["activeTab"]
+}
